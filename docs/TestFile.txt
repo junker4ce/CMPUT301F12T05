@@ -1,2 +1,3 @@
 Created by Tanner Rutgers (trutgers)
 This is T05 project part 1 (okubanjo)
+Demonstrating proper use of GitHub (jmunger)
